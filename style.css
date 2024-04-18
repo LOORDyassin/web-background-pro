@@ -11,4 +11,6 @@ body{
   overflow: hidden;
   background-color: #000;
 }
-/*#container{}
+#container{
+  display: grid;
+}
